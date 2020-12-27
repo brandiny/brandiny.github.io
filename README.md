@@ -1,2 +1,2 @@
 # brandiny.github.io
-Personal website
+The static code behind my personal website.
