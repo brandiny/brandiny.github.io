@@ -1,9 +1,9 @@
 ## First Test Blog Post
 
-Susmaster says hello.
+Hey hey guys 🙄
 
 ---
 
 ### This is a header
 
-Ain't no way bro.
+And this is a paragraph hee hee. Written all in markdown.
