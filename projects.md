@@ -3,5 +3,13 @@ layout: page
 title: Projects
 ---
 
-Eventually, I'll put the stuff I've worked on here to showcase. It will be a
-portfolio of past projects. Stay tuned.
+#### Professional Projects
+* Extracting structured telemetry from Azure Monitor [unfinished]
+* Method Insight Dashboard [unfinished]
+
+#### Personal Projects
+* pygit - git built in Python3 [unfinished]
+* ethbot
+* nz-weather-app
+* ncdaily
+* purecsscorners
