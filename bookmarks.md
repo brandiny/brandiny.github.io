@@ -18,3 +18,6 @@ Similar to a bookmarks manager, except maybe others can find these links helpful
 * [LC Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [CP Advanced Algorithms](https://cp-algorithms.com/index.html)
 * [Neetcode 150 (list of questions)](https://neetcode.io/practice)
+
+
+### 
