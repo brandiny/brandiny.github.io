@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2023 Books
+title: Books
 ---
 This year I'm trying to read more, and I'll try to share what I get up to here.
 I'll write about the books I've read in my spare time, and for university.
